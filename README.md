@@ -27,3 +27,10 @@ git status
 
 git log
 ```
+
+# Markdown
+
+1. buub
+2. lala
+
+[This repo](https://github.com/jsencak/teaching-python/tree/main)
